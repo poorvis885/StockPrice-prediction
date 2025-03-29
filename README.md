@@ -43,7 +43,7 @@ Uses past stock prices to predict future trends
 
 Best for short-term forecasting
 
-**Evaluated using RMSE**
+Evaluated using RMSE
 
 🔹 LSTM (Long Short-Term Memory)
 
